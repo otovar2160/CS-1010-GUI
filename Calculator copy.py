@@ -1,4 +1,3 @@
-# CS-1010-GUI
 import tkinter 
 
 bob= tkinter.Tk()
